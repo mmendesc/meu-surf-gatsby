@@ -33,6 +33,10 @@ module.exports = {
         ],
         externalLinks: [
           {
+            name: `Newsletter`,
+            url: `https://forms.gle/eTL1UhSjLySi7HWh9`,
+          },
+          {
             name: `Instagram`,
             url: `https://www.instagram.com/mmendescf/`,
           },
