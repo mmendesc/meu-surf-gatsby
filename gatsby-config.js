@@ -33,10 +33,6 @@ module.exports = {
         ],
         externalLinks: [
           {
-            name: `Surf Moments`,
-            url: `https://www.instagram.com/mmendescf/`,
-          },
-          {
             name: `Instagram`,
             url: `https://www.instagram.com/mmendescf/`,
           },
