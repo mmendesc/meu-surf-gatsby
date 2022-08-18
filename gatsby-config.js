@@ -148,12 +148,5 @@ module.exports = {
         openAnalyzer: false,
       },
     },
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        // The property ID; the tracking code won't be generated without it
-        trackingId: 'G-6MTBS1DBJ7',
-      },
-    },
   ].filter(Boolean),
 }
