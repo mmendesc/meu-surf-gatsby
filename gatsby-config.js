@@ -37,6 +37,10 @@ module.exports = {
             url: `https://forms.gle/eTL1UhSjLySi7HWh9`,
           },
           {
+            name: `Telegram`,
+            url: `https://t.me/meusurf`,
+          },
+          {
             name: `Instagram`,
             url: `https://www.instagram.com/mmendescf/`,
           },
