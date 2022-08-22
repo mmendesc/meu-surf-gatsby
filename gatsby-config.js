@@ -33,11 +33,11 @@ module.exports = {
         ],
         externalLinks: [
           {
-            name: `Newsletter`,
+            name: `📧 Newsletter`,
             url: `https://forms.gle/eTL1UhSjLySi7HWh9`,
           },
           {
-            name: `Telegram`,
+            name: `🔔 Telegram`,
             url: `https://t.me/meusurf`,
           },
           {
